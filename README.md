@@ -25,8 +25,12 @@ by default the Web api connects to In-Memory repository(database) can be configu
 # Quick start: 
 -    Open /src/PassphraseManagerSvc/PassphraseManagerSvc.csproj poject file in vscode and run it or
 -    to Run, using .Net CLI
-        > cd  /src/PassphraseManagerSvc/
-        > dotnet run
+        
+```bash
+    > cd  /src/PassphraseManagerSvc/
+    > dotnet run
+```
+
      
 - browse Apis using  http://localhost:5000/
 
