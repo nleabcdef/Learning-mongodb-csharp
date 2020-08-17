@@ -125,7 +125,7 @@ namespace PassphraseManagerSvc.Controllers
             };
         }
 
-        [HttpDelete]
+        [HttpGet]
         [Route("/passstore/bycategory")]
         public async Task<ApiResponeDto<IList<PasswordsCategory>>> GetGroupByCategory([FromQuery]string key)
         {
