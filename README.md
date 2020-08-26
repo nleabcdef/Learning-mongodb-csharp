@@ -38,6 +38,8 @@ by default the Web api connects to In-Memory repository(database) can be configu
     - MongoDB docs - https://docs.mongodb.com/manual/reference/
     - MongoDB University free courses
         - http://university.mongodb.com/course_completion/830dba9a-de04-4889-997c-6daf6887b334
+    - MongoDB for .NET Developers
+        - http://university.mongodb.com/course_completion/70f8656d-b786-485a-adf6-9d64b0c8716f
 
 # License : Apache License 2.0
  - read more here http://www.apache.org/licenses/ 
